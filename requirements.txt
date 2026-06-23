@@ -1,0 +1,21 @@
+# Framework Web e Servidor
+fastapi
+uvicorn
+jinja2
+
+# Banco de Dados
+SQLAlchemy
+pymysql
+
+# Segurança e Autenticação
+PyJWT
+bcrypt
+
+# Integração com a B3
+yfinance
+
+# Qualidade e Testes
+pytest
+python-dotenv
+fpdf
+pytest-playwright
