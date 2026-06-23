@@ -52,8 +52,7 @@ O ciclo de vida do desenvolvimento segue o padrão **GitFlow** (branches `main`,
 ### 🔧 1. Configurar Domínio Local e HTTPS
 1. Adicione a seguinte linha ao final do seu arquivo `/etc/hosts` (ou `C:\Windows\System32\drivers\etc\hosts` no Windows):
    `127.0.0.1   fincalcDevops.local`
-2. No terminal, navegue até a pasta `nginx/certs` do projeto e gere os certificados locais:
-  ```bash 
+2. No terminal, navegue até a pasta `nginx/certs` do projeto e gere os certificados locais:``` 
   mkcert -install 
   mkcert fincalcDevops.local```
 
