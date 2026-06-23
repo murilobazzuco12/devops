@@ -1,0 +1,22 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python\\&logoColor=white)\r ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi\\&logoColor=white)\r ![MariaDB](https://img.shields.io/badge/MariaDB-SQL-4479A1?logo=mariadb\\&logoColor=white)\r ![Pytest](https://img.shields.io/badge/Pytest-Testing-green?logo=pytest)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@commitlint/cli": "^21.1.0",
+    "@commitlint/config-conventional": "^21.1.0",
+    "husky": "^9.1.7"
+  }
+}
