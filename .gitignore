@@ -5,11 +5,6 @@ env/
 
 # Variáveis de Ambiente e Segredos
 .env
-
-# Documentos e Arquivos Gerados
-TCC-1.docx
-*.pdf
-
 # Arquivos compilados do Python e Cache de Testes
 __pycache__/
 *.pyc
